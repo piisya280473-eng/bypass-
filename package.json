@@ -1,1 +1,11 @@
-
+{
+  "name": "puppeteer-wait-verification",
+  "version": "1.0.0",
+  "main": "bypass.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
